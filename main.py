@@ -14,6 +14,7 @@ def main():
     print(f"Hieu: {hieu}")
     print(f"Tich: {tich}")
     print(f"Thuong: {thuong}")
+    print("Du an Python da duoc cap nhat!")
 
 
 if __name__ == "__main__":
